@@ -13,7 +13,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
+<p float="left">
+  <img src="./images/completed list.png" alt="completed tasks" width="300px"/>
+  <img src="./images/todolist.png" alt="tasks" width="300px" />
+</p>
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
